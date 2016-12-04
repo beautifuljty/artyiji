@@ -6,6 +6,7 @@ class App extends React.Component {
       <div>
         lalalal
         <h1>66666</h1>
+        <h2>7777</h2>
       </div>
     )
   }
