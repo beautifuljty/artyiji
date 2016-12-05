@@ -1,6 +1,8 @@
 import React from 'react';
 import {render} from 'react-dom';
 
-import App from './App.js';
+import Routers from './Routers.js'
 
-render(<App />,document.getElementById('root'));
+import First from './First.js'
+
+render(<First />,document.getElementById('root'));

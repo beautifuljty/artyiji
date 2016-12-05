@@ -1,12 +1,15 @@
 import React from 'react';
 
+import Header from './Header.js'
+import Footer from './Footer.js'
+
 class App extends React.Component {
   render () {
     return(
       <div>
-        lalalal
-        <h1>66666</h1>
-        <h2>7777</h2>
+        <Header />
+        {this.props.children}
+        <Footer />
       </div>
     )
   }
