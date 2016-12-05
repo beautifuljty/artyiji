@@ -7,7 +7,7 @@ class First extends React.Component {
   constructor(){
     super()
     this.state={
-      show:true
+      show:false
     }
   }
   render () {
