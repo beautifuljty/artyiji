@@ -4,7 +4,7 @@ class Zhanxun extends React.Component {
   render () {
     return(
       <div>
-        zhanxun
+        <Focus />
       </div>
     )
   }
