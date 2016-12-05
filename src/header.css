@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .header-warp{
   flex-shrink: 0;
   display: flex;
