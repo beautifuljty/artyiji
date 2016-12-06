@@ -1,0 +1,8 @@
+.fabu-warp{
+  background-image: url(./img/bg.jpg);
+}
+.fabu-inner {
+  width: 100%;
+  height: 50px;
+  text-align: center;
+}
