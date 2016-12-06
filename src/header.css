@@ -1,3 +1,4 @@
+
 .header-warp{
   flex-shrink: 0;
   display: flex;
@@ -13,8 +14,12 @@
   flex-grow: 1;
   background-image: url(./img/logo.png);
   background-size: 115px 33px;
+
   background-repeat: no-repeat;
   background-position: center;
+}
+span{
+  font-size: 30px;
 }
 .my-footer{
   flex-shrink: 0;

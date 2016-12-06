@@ -5,6 +5,9 @@ class Header extends React.Component {
     return(
       <div className='header-warp'>
         <div className='header-inner'></div>
+          
+            <span className="glyphicon glyphicon-search"></span>
+
       </div>
     )
   }
