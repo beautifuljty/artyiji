@@ -7,7 +7,7 @@ class App extends React.Component {
   render () {
     return(
       <div className='my-warp'>
-        <Header />
+        
         <div className='my-main'>
           {this.props.children}
         </div>
