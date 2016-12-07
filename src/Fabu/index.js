@@ -13,7 +13,6 @@ class Fabu extends React.Component {
           <img className='img1'  src={img1}/>
         </div>
         <p className='fabu-p'>说点什么...</p>
-        <textarea 
         <div className='fabu-pic'>
           <div className='fabu-dian'>
             <img src={img3} /><br />

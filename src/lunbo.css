@@ -48,7 +48,8 @@
   100%{opacity: 1;margin-left:5px}
 }
 .animate{
-  animation:lala 1s infinite ease-in
+  animation:lala 1s infinite ease-in;
+  font-size: 14px
 }
 
 .sign{
@@ -102,7 +103,8 @@
   text-align: center;
 }
 .p-span{
-  color: brown
+  color: brown;
+  font-size: 12px
 }
 .footer-btn{
   width: 20vw;

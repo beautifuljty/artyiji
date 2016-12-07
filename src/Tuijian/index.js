@@ -1,14 +1,10 @@
-<<<<<<< HEAD
-import React, { PropTypes } from 'react'
-import Header from '../component/Header.js'
-=======
+
 import React, { PropTypes } from 'react';
 import Zhan from '../img/zhan.png';
 // import TuijianCard from '../component/TuijianCard';
 import axios from 'axios';
-import Header from '../Header.js'
+import Header from '../component/Header.js'
 
->>>>>>> 9d6978fee92bf78e14def59b9eed03f652e0cb13
 class Tuijian extends React.Component {
   // constructor(){
   //   super();
@@ -21,11 +17,6 @@ class Tuijian extends React.Component {
   // }
   render () {
     return(
-<<<<<<< HEAD
-      <div className='tuijian-warp'>
-        <Header style={{marginLeft:'10px'}} /><br />
-        <h3>tuijan</h3>
-=======
       <div className='tuijian-wrap'>
         <Header />
         <div className='tuijian-nav'>
@@ -42,7 +33,6 @@ class Tuijian extends React.Component {
           <a href='#' className='zfz'>  </a>
           <a href='#' className='fg'>  </a>
         </div>
->>>>>>> 9d6978fee92bf78e14def59b9eed03f652e0cb13
       </div>
 
     )

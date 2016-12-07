@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 
-=======
 *{
   margin: 0;
   padding: 0;
 }
->>>>>>> 9d6978fee92bf78e14def59b9eed03f652e0cb13
 .header-warp{
   flex-shrink: 0;
   display: flex;
